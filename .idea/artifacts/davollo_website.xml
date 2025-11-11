@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="davollo-website">
+    <output-path>$PROJECT_DIR$/out/artifacts/davollo_website</output-path>
+    <root id="root">
+      <element id="archive" name="davollo_com.zip">
+        <element id="file-copy" path="$PROJECT_DIR$/index.html" />
+        <element id="directory" name="images">
+          <element id="dir-copy" path="$PROJECT_DIR$/images" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
